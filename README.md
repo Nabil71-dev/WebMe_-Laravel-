@@ -28,7 +28,7 @@ I have done this project for my uni_course, I have done this in ###Laravel) just
 
 ## Something this project_isp_WebMe
 1: My aim was to build something that fully functional as regular website, that's why i have focused in data not design
-2: this project is okay for 1000>=px width display
+2: this project is okay for  width>=1000px display
 3: All validion is done by using laravel input validation and was customly made
 
 ## To use forget password feature 
