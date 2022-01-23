@@ -35,7 +35,8 @@ I have done this project for my uni_course, I have done this in ###Laravel) just
 1: Edit .env file and add your mail and pass and forget to stop two step varification from your mail that you are using 
 
 ## To use
-_i Just clone it and edit .env file properly {if u r new don't forget to learn about MVC patternt, Auth, compact|with routes}
+*** Just clone it and edit .env file properly { if u r new don't forget to learn about MVC patternt, Auth, compact|with routes ,OOP inheritance and create object instance }
+
 #### The design of full project i have done in Figma
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
