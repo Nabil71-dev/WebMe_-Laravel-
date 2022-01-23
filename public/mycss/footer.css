@@ -1,0 +1,30 @@
+.subfooter{
+    height:330px;
+    color: #686868;
+    font-size: 18px;
+    background-color: #23d4bd17;
+}
+.subfooter-banner>label{
+    font-size: 2.4rem;
+ }
+ .subfooter-banner>button{
+    color: #00935e;
+    font-size: 1.5rem;
+    background: transparent;
+    width: 265px;
+    line-height: 25px;
+    border-radius: 8px;
+    border: 3px solid #00ce78;
+}
+.subfooter-banner>button>label{
+    font-weight: 600;
+    font-size: 25px;
+}
+.mainfooter{
+    background-color: #005B35;
+    padding:7px 0 0 0;
+    line-height: 12px;
+    text-align:center;
+    color: #EFEFEF;
+    font-size: 1rem;
+}

@@ -1,0 +1,47 @@
+.complain_container {
+    height: auto;
+    width: 100%;
+    color: #686868;
+}
+.complain_header > h1 {
+    font-size: 3rem;
+}
+.complain_header > h1::after {
+    content: "";
+    display:block;
+    height: 0;
+    width: 360px;
+    margin-top:1rem;
+    border-top: 5px solid gray;
+}
+.complain_body {
+    display:flex;
+    justify-content: center;
+    margin:2.5rem 0 0 0;
+}
+.complain_box {
+    height: 340px;
+    background: #ffffff;
+    box-shadow: 0px 0px 10px 5px #b1b1b1;
+    border-radius: 15px;
+    margin: 1.2rem 1rem 0 0;
+}
+.complain_box > form {
+    padding: 40px 0 0 5px;
+}
+.complain_input {
+    width: 98%;
+    border: 3px solid #989898;
+    border-radius: 8px;
+    margin: 0 0 12px 0;
+}
+.complain_button {
+    color: #00935e;
+    font-size: 1rem;
+    background: transparent;
+    width: 165px;
+    line-height: 20px;
+    border-radius: 8px;
+    border: 3px solid #00ce78;
+    margin: 1rem 0 0 0;
+}

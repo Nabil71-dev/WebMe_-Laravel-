@@ -1,0 +1,38 @@
+.mainPage {
+    height: 680px;
+    width: 100%;
+    background-image: url("/img/homePageBg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+    color: #686868;
+    font-size:18px;
+}
+.nav>a,.nav> a:hover{
+    text-decoration: none;
+    color: #686868;
+}
+.nav > a {
+    margin:auto;
+    font-size: 1.5rem;
+}
+.nav> a:hover{
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+.left-Banner > h1{
+    font-size: 3rem;
+    margin: 4rem 0 2rem 0;
+}
+.left-Banner > p{
+    font-size: 1.1rem;
+    text-align: justify;
+    margin: 2rem 0 1.5rem 0;
+}
+.left-Banner > lebel {
+    margin: 0px 15px 0px 0px;
+    cursor: pointer;
+}
+.right-Illustration > img {
+    margin: 4rem 0 0 0;
+}
