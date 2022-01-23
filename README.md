@@ -21,6 +21,29 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+
+# WebMe_-Laravel-
+I have done this project for my uni_course, I have done this in ###Laravel) just to explore some frameworks of PHP
+
+## Something this project_isp_WebMe
+1: My aim was to build something that fully functional as regular website, that's why i have focused in data not design
+2: this project is okay for 1000>=px width display
+3: All validion is done by using laravel input validation and was customly made
+
+## To use forget password feature 
+1: Edit .env file and add your mail and pass and forget to stop two step varification from your mail that you are using 
+
+## To use
+_i Just clone it and edit .env file properly {if u r new don't forget to learn about MVC patternt, Auth, compact|with routes}
+#### The design of full project i have done in Figma
+
+
+
+
+
+
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
